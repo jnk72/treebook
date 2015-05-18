@@ -1,5 +1,5 @@
-# jay:
-#   first_name: "Jay"
-#   last_name: "Kay"
-#   email: "jay@email.com"
-#   profile: "jaykay"
+jay:
+  first_name: "Jay"
+  last_name: "Kay"
+  email: "jay@email.com"
+  profile_name: "jaykay"
